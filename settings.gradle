@@ -1,0 +1,2 @@
+rootProject.name='AndroidRxjav2Test'
+include ':app'
